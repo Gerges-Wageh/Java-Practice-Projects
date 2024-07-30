@@ -9,11 +9,11 @@ This repository is a collection of small Java projects aimed at practicing diffe
 
 ## Projects
 
-**Project 1: ChatingViaJavaSockets**
+1. **Project 1: ChatingViaJavaSockets**
     - Description: A basic project for the basic idea behind chat apps. It allows you to chat with different computers on the same local network.
     - Concepts: Java Sockets and IO streams.
 
-**Project 2: DatabaseConnection**
+2. **Project 2: DatabaseConnection**
     - Description: A basic project for MySQL database connection and try simple query.
     - Concepts: JDBC, Exception Handling and adding external dependencies
 
